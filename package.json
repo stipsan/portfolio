@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@next/font": "13.0.5",
-    "@portabletext/react": "2.0.0",
+    "@portabletext/react": "2.0.2",
     "@tailwindcss/typography": "0.5.8",
     "@vercel/og": "0.0.21",
     "feed": "4.2.2",
